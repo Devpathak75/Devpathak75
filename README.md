@@ -6,7 +6,7 @@
 - 👯 **I’m looking to collaborate on:** [Open-source web development projects, student tech clubs, or mini-projects related to AI]
 - 🤔 **I’m looking for help with:** [Improving deployment and cloud hosting skills for my web projects]
 - 💬 **Ask me about:** [Java, Web Development, Database Design, Project Collaboration]
-- 📫 **How to reach me:** pdev7169@gmail.com
+- 📫 **How to reach me:** pdev7169@gmail.com and whatapp no - 9209152134
 - 😄 **Pronouns:** [He/Him]
 - ⚡ **Fun fact:** [I love tech and tech loves me! Always curious to learn new things and solve real-world problems.]
 - 💻 Skilled in Python, Java, C/C++, HTML, CSS, JavaScript, MySQL, JSP, Servlets.
